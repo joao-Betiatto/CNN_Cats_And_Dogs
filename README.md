@@ -12,7 +12,7 @@ This project is a simple deep learning model built in Google Colab that classifi
 
 📂 Dataset
   
-  • The model was trained using the popular Dogs vs. Cats dataset, icluding 2000 images of cats and 2000 images of dogs for training, and 500 images of cats and 500 images of dogs for tests.
+  • The model was trained using an dataset with cats and dogs images, icluding 2000 images of cats and 2000 images of dogs for training, and 500 images of cats and 500 images of dogs for tests.
 
 🧠 Model
 
