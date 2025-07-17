@@ -8,7 +8,7 @@ This project is a simple deep learning model built in Google Colab that classifi
   
   • TensorFlow / Keras
   
-  • MobileNetV2 (pre-trained on ImageNet)
+  • MobileNetV2 
 
 📂 Dataset
   
